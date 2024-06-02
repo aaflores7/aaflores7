@@ -5,7 +5,7 @@
 A Computer Science student committed to innovative problem-solving and technology-driven solutions. With a passion for User Interface (UI) and User Experience design, I bring a unique blend of technical skills and creative insight to every project. Armed with a solid understanding of computer science principles, programming languages, and software development technologies, I am well-equipped to tackle complex challenges. Additionally, I am eager to expand my knowledge and expertise in various technological stacks and stay updated on emerging trends in the industry.
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
